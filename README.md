@@ -1,7 +1,7 @@
 
 # 🛠️ Notes App Backend (Koa + PostgreSQL + Sequelize)
 
-This is the backend service for the [Node Next Sample App](https://github.com/your-username/node-next-sample), built with **Koa**, **TypeScript**, **Sequelize**, and **PostgreSQL**.
+This is the backend service for the [Node Next Sample App](https://github.com/Joojo7/notes-app-frontend), built with **Koa**, **TypeScript**, **Sequelize**, and **PostgreSQL**.
 
 It exposes simple REST APIs for user signup/login and authenticated CRUD operations on notes.
 JWT-based authentication and UUID support are included for secure, scalable integration.
